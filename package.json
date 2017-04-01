@@ -1,0 +1,42 @@
+{
+  "name": "@slonoed/startup",
+  "version": "1.0.1",
+  "description": "Small IoC library with flexible API and async components in mind",
+  "keywords": [
+    "ioc"
+  ],
+  "homepage": "https://github.com/slonoed/startup",
+  "bugs": {
+    "url": "https://github.com/slonoed/startup"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "Dmitry Manannikov <email@slonoed.net> (http://slonoed.net/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slonoed/startup.git"
+  },
+  "engines": {
+    "node": ">= 6.0.0"
+  },
+  "devDependencies": {
+    "eslint": "3.19.0",
+    "eslint-config-airbnb-base": "11.1.2",
+    "eslint-plugin-import": "2.2.0",
+    "chai": "3.5.0",
+    "chai-as-promised": "6.0.0",
+    "mocha": "3.2.0",
+    "sinon": "2.1.0",
+    "sinon-chai": "2.9.0",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.1.2",
+    "eslint-plugin-import": "^2.2.0",
+    "sinon": "^2.1.0",
+    "sinon-chai": "^2.9.0"
+  }
+}
